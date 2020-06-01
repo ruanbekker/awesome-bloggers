@@ -3,4 +3,4 @@ List of Awesome Bloggers
 
 ## Tech
 
-- [sr229](https://sr229.now.sh/)
+- [Ayane Satomi](https://sr229.now.sh/)
